@@ -12,7 +12,7 @@
 
 
 
-h1 {
+h1,h3 {
 text-shadow: 1px 1px 1px white, 2px 2px 2px black, 3px 3px 3px white, 4px 4px 4px black;
 float:none;
 margin: 0 auto;

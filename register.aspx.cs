@@ -45,7 +45,7 @@ public partial class css_register : System.Web.UI.Page
 
         if (result)
         {
-            Response.Redirect("ShowTrackerLoginDefault.aspx");
+            Response.Redirect("addshow.aspx");
 
 }
         else
